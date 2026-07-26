@@ -37,18 +37,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-🔹 Portfolio Website
-
-🔹 Golden Grill Burger Shop (Java Swing)
-
-🔹 Guess The Number Game
-
-*(More projects coming soon!)*
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -61,14 +49,8 @@
 
 ---
 
-## 📫 Connect with Me
+## Lets connect!
 
-- 🌐 Portfolio: https://meno-cv.github.io/CW-2---IT----Portfolio/
 - 💼 LinkedIn: https://www.linkedin.com/in/menocasch/
 - 📧 Email: menolycasch2006@gmail.com
 
----
-
-<p align="center">
-✨ Thanks for visiting my profile! ✨
-</p>
