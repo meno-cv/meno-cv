@@ -51,8 +51,7 @@
 
 ## Lets connect!
 
-<p align="center">
-💼 LinkedIn: https://www.linkedin.com/in/menocasch/
-📧 Email: menolycasch2006@gmail.com
-</p>
+- 💼 LinkedIn: https://www.linkedin.com/in/menocasch/
+- 📧 Email: menolycasch2006@gmail.com
+
 
