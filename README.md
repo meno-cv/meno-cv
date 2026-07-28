@@ -9,7 +9,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=meno-cv&color=blue" alt="Profile Views" />
 </p>
----
 
 ## 🌟 About
 
