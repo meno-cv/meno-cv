@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Hey,%20I'm%20Menoly&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20•%20Java%20Developer&descAlignY=60&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Hey,%20I'm%20Menoly!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20•%20Java%20Developer&descAlignY=60&descSize=18"/>
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="24"/> About
+## 🌟 About
 
 I'm passionate about building software that is clean, reliable, and designed to solve meaningful problems.
 
@@ -16,7 +16,7 @@ I believe continuous learning, thoughtful engineering, and attention to detail a
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="24"/> Tech Stack
+## ♨️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,html,css,js,bootstrap,mysql,git,github,vscode&theme=dark"/>
@@ -24,7 +24,7 @@ I believe continuous learning, thoughtful engineering, and attention to detail a
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="24"/> GitHub Analytics
+## <img src="https://media.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" width="22"> GitHub Analytics
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=meno-cv&theme=github-dark&hide_border=true"/>
@@ -32,7 +32,7 @@ I believe continuous learning, thoughtful engineering, and attention to detail a
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Rocket.png" width="24"/> Professional Interests
+## <img src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/rocket.gif" width="22"> Interests
 
 <p align="left">
 
@@ -50,7 +50,7 @@ I believe continuous learning, thoughtful engineering, and attention to detail a
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Handshake.png" width="24"/> Let's Connect
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://github.com/meno-cv">
