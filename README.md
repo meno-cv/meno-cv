@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&pause=2500&color=3B82F6&center=true&vCenter=true&width=500&lines=Object-Oriented+Programming;Problem+Solving;Always+Learning"/>
 </p>
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+![](https://komarev.com/ghpvc/?username=meno-cv&color=blue)
 
 ---
 
