@@ -50,7 +50,7 @@ I believe continuous learning, thoughtful engineering, and attention to detail a
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let's Connect!
 
 <p align="center">
   <a href="https://github.com/meno-cv">
