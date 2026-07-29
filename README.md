@@ -21,7 +21,7 @@ I believe continuous learning, thoughtful engineering, and attention to detail a
 ## ♨️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,bootstrap,mysql,git,github,vscode&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,bootstrap,mysql,postman,git,github,vscode&theme=dark"/>
 </p>
 
 ---
