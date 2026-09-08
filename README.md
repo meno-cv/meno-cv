@@ -1,20 +1,23 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Hey,%20I'm%20Menoly!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20•%20Java%20Developer&descAlignY=60&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,100:16A34A&height=220&section=header&text=Hey,%20I'm%20Menoly!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20•%20Java%20Developer&descAlignY=60&descSize=18"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&pause=2500&color=3B82F6&center=true&vCenter=true&width=500&lines=Object-Oriented+Programming;Problem+Solving;Always+Learning"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&pause=2500&color=22C55E&center=true&vCenter=true&width=500&lines=Problem+Solving;Building+Practical+Solutions;Always+Learning"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=meno-cv&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=meno-cv&color=green" alt="Profile Views" />
 </p>
 
 ## 🌟 About
 
-I'm passionate about building software that is clean, reliable, and designed to solve meaningful problems.
+I'm a Software Engineering student passionate about problem solving and building practical software solutions.
 
-I believe continuous learning, thoughtful engineering, and attention to detail are the foundation of great software. I enjoy turning ideas into practical applications while continuously improving my skills as a software engineer.
+
+I enjoy turning ideas into functional applications, exploring new technologies, and continuously improving my development skills. I value clean, thoughtful development and enjoy taking on challenges that push me to learn, grow, and build better solutions.
+
+
 
 ---
 
@@ -38,17 +41,18 @@ I believe continuous learning, thoughtful engineering, and attention to detail a
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/Software_Engineering-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem_Solving-0D1117?style=for-the-badge&logo=lightbulb&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/System_Design-161B22?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Real--World_Solutions-161B22?style=for-the-badge&logo=target&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Clean_Code-21262D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Clean_Development-21262D?style=for-the-badge&logo=code&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Software_Architecture-30363D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automation-30363D?style=for-the-badge&logo=gear&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Continuous_Learning-484F58?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Continuous_Growth-484F58?style=for-the-badge&logo=rocket&logoColor=white"/>
 
 </p>
+
 
 ---
 
@@ -69,6 +73,5 @@ I believe continuous learning, thoughtful engineering, and attention to detail a
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16A34A,100:0B1120&height=120&section=footer"/>
 </p>
-
