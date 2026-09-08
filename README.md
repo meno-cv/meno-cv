@@ -1,12 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,100:16A34A&height=220&section=header&text=Hey,%20I'm%20Menoly!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20•%20Java%20Developer&descAlignY=60&descSize=18"/>
+  <img src="./header.svg" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&pause=2500&color=22C55E&center=true&vCenter=true&width=500&lines=Problem+Solving;Building+Practical+Solutions;Always+Learning"/>
-</p>
-
-<p align="center">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=meno-cv&color=green" alt="Profile Views" />
 </p>
 
@@ -72,6 +68,4 @@ I enjoy turning ideas into functional applications, exploring new technologies, 
   </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16A34A,100:0B1120&height=120&section=footer"/>
-</p>
+
