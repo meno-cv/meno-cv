@@ -545,18 +545,129 @@
 
   <!-- Animated light following the wave -->
 
-  <circle
-    cy="278"
-    r="1.5"
-    fill="#4ADE80"
-    filter="url(#particleGlow)">
+  <p align="center">
+  <svg width="1200" height="100" viewBox="0 0 1200 100"
+       xmlns="http://www.w3.org/2000/svg">
 
-    <animate
-      attributeName="cx"
-      values="40;1160;40"
-      dur="10s"
-      repeatCount="indefinite"/>
+    <defs>
+      <linearGradient id="footerBg" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0%" stop-color="#020605"/>
+        <stop offset="50%" stop-color="#07100C"/>
+        <stop offset="100%" stop-color="#020605"/>
+      </linearGradient>
+    </defs>
 
-  </circle>
+    <!-- Background -->
+
+    <rect width="1200" height="100" fill="url(#footerBg)"/>
+
+
+    <!-- Dim floating dots -->
+
+    <g fill="#4ADE80">
+
+      <circle cx="120" cy="35" r="1.5" opacity="0.15">
+        <animate
+          attributeName="cy"
+          values="35;25;35"
+          dur="5s"
+          repeatCount="indefinite"/>
+        <animate
+          attributeName="opacity"
+          values="0.05;0.3;0.05"
+          dur="5s"
+          repeatCount="indefinite"/>
+      </circle>
+
+      <circle cx="280" cy="65" r="1" opacity="0.12">
+        <animate
+          attributeName="cy"
+          values="65;52;65"
+          dur="6s"
+          repeatCount="indefinite"/>
+        <animate
+          attributeName="opacity"
+          values="0.05;0.25;0.05"
+          dur="6s"
+          repeatCount="indefinite"/>
+      </circle>
+
+      <circle cx="430" cy="30" r="1.5" opacity="0.1">
+        <animate
+          attributeName="cy"
+          values="30;18;30"
+          dur="4s"
+          repeatCount="indefinite"/>
+      </circle>
+
+      <circle cx="610" cy="58" r="1" opacity="0.15">
+        <animate
+          attributeName="cy"
+          values="58;45;58"
+          dur="5.5s"
+          repeatCount="indefinite"/>
+      </circle>
+
+      <circle cx="790" cy="28" r="1.5" opacity="0.12">
+        <animate
+          attributeName="cy"
+          values="28;17;28"
+          dur="4.5s"
+          repeatCount="indefinite"/>
+      </circle>
+
+      <circle cx="960" cy="65" r="1" opacity="0.15">
+        <animate
+          attributeName="cy"
+          values="65;50;65"
+          dur="6s"
+          repeatCount="indefinite"/>
+      </circle>
+
+      <circle cx="1090" cy="35" r="1.5" opacity="0.1">
+        <animate
+          attributeName="cy"
+          values="35;22;35"
+          dur="5s"
+          repeatCount="indefinite"/>
+      </circle>
+
+    </g>
+
+
+    <!-- Subtle connecting line -->
+
+    <line
+      x1="300"
+      y1="50"
+      x2="610"
+      y2="58"
+      stroke="#4ADE80"
+      stroke-width="1"
+      opacity="0.06"/>
+
+    <line
+      x1="610"
+      y1="58"
+      x2="960"
+      y2="65"
+      stroke="#4ADE80"
+      stroke-width="1"
+      opacity="0.06"/>
+
+
+    <!-- Final line -->
+
+    <line
+      x1="40"
+      y1="88"
+      x2="1160"
+      y2="88"
+      stroke="#4ADE80"
+      stroke-width="1"
+      opacity="0.35"/>
+
+  </svg>
+</p>
 
 </svg>
