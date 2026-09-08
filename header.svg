@@ -503,4 +503,60 @@
 
   </circle>
 
+     <path
+    d="M0 278
+       C150 310 300 315 450 292
+       C610 268 760 268 900 295
+       C1030 320 1120 310 1200 278
+       L1200 320
+       L0 320 Z"
+    fill="#0B1120"
+  />
+
+
+  <!-- Green wave edge -->
+
+  <path
+    d="M0 278
+       C150 310 300 315 450 292
+       C610 268 760 268 900 295
+       C1030 320 1120 310 1200 278"
+    fill="none"
+    stroke="#16A34A"
+    stroke-width="2"
+    opacity="0.85"
+  />
+
+
+  <!-- Soft green glow -->
+
+  <path
+    d="M0 278
+       C150 310 300 315 450 292
+       C610 268 760 268 900 295
+       C1030 320 1120 310 1200 278"
+    fill="none"
+    stroke="#16A34A"
+    stroke-width="7"
+    opacity="0.10"
+    filter="url(#blur)"
+  />
+
+
+  <!-- Animated light following the wave -->
+
+  <circle
+    cy="278"
+    r="1.5"
+    fill="#4ADE80"
+    filter="url(#particleGlow)">
+
+    <animate
+      attributeName="cx"
+      values="40;1160;40"
+      dur="10s"
+      repeatCount="indefinite"/>
+
+  </circle>
+
 </svg>
