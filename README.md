@@ -68,4 +68,6 @@ I enjoy turning ideas into functional applications, exploring new technologies, 
   </a>
 </p>
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16A34A,100:0B1120&height=120&section=footer"/>
+</p>
