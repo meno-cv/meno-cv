@@ -20,7 +20,11 @@ I enjoy turning ideas into functional applications, exploring new technologies, 
 ## ♨️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,ts,bootstrap,mysql,postman,git,github,vscode&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,ts,bootstrap,mysql,spring,postman,git,github,idea,vscode&theme=dark"/>
+</p>
+
+<p align="center">
+  <b>Currently Exploring:</b> JavaFX • FXML • JDBC • Scene Builder
 </p>
 
 ---
