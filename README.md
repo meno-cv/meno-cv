@@ -24,7 +24,7 @@ I enjoy turning ideas into functional applications, exploring new technologies, 
 </p>
 
 <p align="center">
-  <b>Currently Exploring:</b> JavaFX • FXML • JDBC • Scene Builder
+  <b>Currently Exploring:</b> JavaFX • FXML • JDBC • Spring Boot
 </p>
 
 ---
